@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B46A58D-91B1-4E2A-B316-0A5931DDC788"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2632EEE-840E-46A7-B782-4ECF6F215997"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "tabBarController(_:shouldSelect:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2632EEE-840E-46A7-B782-4ECF6F215997 - 616c83f6f6e5616b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pin.TabBarController.tabBarController(_: __C.UITabBarController, shouldSelect: __C.UIViewController) -&gt; Swift.Bool"
+                  moduleName = "Pin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/Pin/Pin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "A2632EEE-840E-46A7-B782-4ECF6F215997 - 616c83f6f6e561a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pin.TabBarController.tabBarController(_: __C.UITabBarController, shouldSelect: __C.UIViewController) -&gt; Swift.Bool"
+                  moduleName = "Pin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/Pin/Pin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "A2632EEE-840E-46A7-B782-4ECF6F215997 - 616c83f6f6e560f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pin.TabBarController.tabBarController(_: __C.UITabBarController, shouldSelect: __C.UIViewController) -&gt; Swift.Bool"
+                  moduleName = "Pin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/Pin/Pin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
